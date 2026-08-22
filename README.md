@@ -114,9 +114,9 @@ A full-stack application developed for a pre-owned vehicle dealership, featuring
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcenero&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Marcenero&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcenero&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcenero&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
 </div>
 
