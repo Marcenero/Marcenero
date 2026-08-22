@@ -80,7 +80,7 @@ hardware   → embedded systems, IoT, and computer architecture
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 FinGuia
+### FinGuia
 
 A local financial education AI agent capable of interpreting user questions and accessing deterministic tools to analyze financial data.
 
@@ -94,7 +94,7 @@ A local financial education AI agent capable of interpreting user questions and 
 
 <td width="50%" valign="top">
 
-### 🚗 Moveo Motors
+### Moveo Motors
 
 A full-stack application developed for a pre-owned vehicle dealership, featuring a vehicle catalog, filters, individual vehicle pages, and administrative tools.
 
