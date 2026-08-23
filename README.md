@@ -74,42 +74,6 @@ hardware   → embedded systems, IoT, and computer architecture
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### FinGuia
-
-A local financial education AI agent capable of interpreting user questions and accessing deterministic tools to analyze financial data.
-
-**Stack**
-
-`Python` `LangChain` `LangGraph` `Ollama` `Streamlit`
-
-🔗 **[Explore Project](https://github.com/Marcenero/educador-financeiro)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Moveo Motors
-
-A full-stack application developed for a pre-owned vehicle dealership, featuring a vehicle catalog, filters, individual vehicle pages, and administrative tools.
-
-**Stack**
-
-`Next.js` `TypeScript` `React` `Node.js` `Supabase`
-
-🔗 **[Explore Project](https://github.com/Marcenero/site-moveo-motors)**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 GitHub
 
 <div align="center">
