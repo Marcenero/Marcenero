@@ -63,7 +63,7 @@ hardware   → embedded systems, IoT, and computer architecture
 ### Data & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
 </p>
 
 ### Hardware
